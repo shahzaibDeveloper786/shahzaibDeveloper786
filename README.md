@@ -57,18 +57,15 @@
 - Owned the complete **Google Play Console** setup, app packaging, and release process
 - Identified and resolved bugs across UI, business logic, and API integration through iterative debugging
 
-> 🔗 Replace the `#` above with your AristaBot repo or Play Store link once you add it here.
-
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzaibDeveloper786&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibDeveloper786&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` in the two image links above with your actual GitHub username.
 
 ---
 
@@ -76,7 +73,7 @@
 
 <p align="center">
   <a href="mailto:shahzaibnaveed537@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shahzaib-naveed-01737933b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Phone-%2B92%20301%204346411-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
